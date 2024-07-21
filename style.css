@@ -1,0 +1,116 @@
+.first-half{
+    width: 350px;
+    background-color: rgb(21, 21, 21);
+    color: rgb(197, 194, 194);
+    /* height: 735px; */
+    font-weight: lighter;
+}
+.top-icons{
+    display: flex;
+    justify-content:space-between;
+   padding: 10px 20px;
+   font-weight:bolder;
+   cursor: pointer;
+}
+.top-icons-Gpt{
+    display: flex;
+    padding: 5px 20px;
+}
+.bi-flower1{
+    font-size: large;
+    margin-right: 10px;
+}
+.explore{
+    display: flex;
+    padding: 5px 20px;
+}
+.bi-card-list{
+    margin-right: 10px;
+    font-size: large;
+    
+}
+.Today{
+    padding:10px 20px ;
+
+}
+.today-h6{
+    font-size: 14px;
+    font-style: italic;
+}
+.today-para{
+    
+    font-size: 16px;
+    font-weight: 400;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.previous{
+    padding:10px 20px ;
+}
+.previous-30{
+    padding:10px 20px ;
+
+}
+.last{
+    padding: 10px;
+    display: flex;
+    border: 0.1px solid rgb(91, 90, 90);
+    border-radius: 6px;
+   
+}
+.last1{
+    margin-right: 10px;
+}
+.last-para{
+    font-size: 13px;
+}
+.img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+
+}
+/* ---------------------- */
+.stage-2{
+background-color: rgb(37, 37, 37);
+width: 100%;
+color: rgb(157, 155, 155);
+position: relative;
+
+}
+.main
+{
+    display: flex;
+}
+.image{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.top-chatgpt{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    font-size: 50px;
+    font-weight: 900;
+}
+.input{
+    position: absolute;
+    bottom: 0;
+    margin: 60px 23%;
+text-align: center;
+    
+}
+.inner-input{
+   padding: 10px;
+   padding-right: 230%;
+   border-radius: 25px;
+   background-color: rgb(80, 79, 79);
+   border: none;
+   color: rgb(253, 253, 253);
+}
